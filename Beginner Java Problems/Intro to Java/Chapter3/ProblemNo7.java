@@ -7,7 +7,6 @@ public class ProblemNo7 {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter an amount in double, for example 11.56: ");
         double amount = scan.nextDouble();
-
         int remainingAmount = (int) (amount * 100);
         int numberOfOneDollars = remainingAmount / 100;
         remainingAmount = remainingAmount % 100;
