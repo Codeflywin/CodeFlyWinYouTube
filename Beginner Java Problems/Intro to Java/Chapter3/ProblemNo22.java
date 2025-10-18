@@ -13,7 +13,7 @@ public class ProblemNo22 {
             System.out.println("Point (" + x +"," + y + ") is in the circle.");
         else
             System.out.println("Point (" + x +"," + y + ") is not in the circle.");
-
+        scan.close();
     }
 
 }
