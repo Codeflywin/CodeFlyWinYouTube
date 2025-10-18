@@ -15,6 +15,6 @@ public class ProblemNo23 {
             System.out.println("Point (" + x +"," + y + ") is in the rectangle.");
         else
             System.out.println("Point (" + x +"," + y + ") is not in the circle.");
-
+        scan.close();
     }
 }
