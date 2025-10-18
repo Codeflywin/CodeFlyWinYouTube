@@ -1,6 +1,6 @@
 package Chapter3;
 
-public class ProblemNo16 {
+public class Exercise_3_16 {
     public static void main (String[] args) {
 
         // Math random will generate a double between 0 and 1 (1 is not inclusive), so if we multiply it by 50,

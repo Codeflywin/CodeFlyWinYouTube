@@ -1,7 +1,7 @@
 package Chapter3;
 
 import java.util.Scanner;
-public class ProblemNo21 {
+public class Exercise_3_21 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter the year: (e.g., 2012): ");

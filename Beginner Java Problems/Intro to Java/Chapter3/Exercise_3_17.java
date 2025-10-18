@@ -2,7 +2,7 @@ package Chapter3;
 
 import java.util.Scanner;
 
-public class ProblemNo17 {
+public class Exercise_3_17 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("scissor (0), rock (1), paper (2): ");

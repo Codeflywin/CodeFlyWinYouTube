@@ -2,7 +2,7 @@ package Chapter3;
 
 import java.util.Scanner;
 
-public class ProblemNo12 {
+public class Exercise_3_12 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter a three-digit integer: ");

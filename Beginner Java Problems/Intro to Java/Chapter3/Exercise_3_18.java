@@ -2,7 +2,7 @@ package Chapter3;
 
 import java.util.Scanner;
 
-public class ProblemNo18 {
+public class Exercise_3_18 {
     public static void main (String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the weight of a package in order to receive shipping price: ");

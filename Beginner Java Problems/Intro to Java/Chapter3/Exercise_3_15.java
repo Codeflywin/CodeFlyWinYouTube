@@ -2,7 +2,7 @@ package Chapter3;
 
 import java.util.Scanner;
 
-public class ProblemNo15 {
+public class Exercise_3_15 {
     public static void main(String[] args) {
         // Generate a lottery
         int lottery = (int)(Math.random() * 1000);

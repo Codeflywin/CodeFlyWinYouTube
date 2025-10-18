@@ -1,7 +1,7 @@
 package Chapter3;
 
 import java.util.Scanner;
-public class ProblemNo14 {
+public class Exercise_3_14 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter 0 for heads, or 1 for tails to guess the flip of a coin: ");

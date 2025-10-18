@@ -2,7 +2,7 @@ package Chapter3;
 
 import java.util.Scanner;
 
-public class ProblemNo23 {
+public class Exercise_3_23 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter a point (x,y) to check if the point is within a square centered at (1,1) with a width of 10 and height of 5: ");

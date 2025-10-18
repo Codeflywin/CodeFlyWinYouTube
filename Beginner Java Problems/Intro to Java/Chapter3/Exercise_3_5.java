@@ -2,7 +2,7 @@ package Chapter3;
 
 import java.util.Scanner;
 
-public class ProblemNo5 {
+public class Exercise_3_5 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter today's day: ");

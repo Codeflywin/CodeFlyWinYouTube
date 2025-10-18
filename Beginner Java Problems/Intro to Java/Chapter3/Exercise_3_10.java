@@ -2,7 +2,7 @@ package Chapter3;
 
 import java.util.Scanner;
 
-public class ProblemNo10 {
+public class Exercise_3_10 {
     public static void main(String[] args) {
         // 1. Generate two random single-digit integers
         int number1 = (int)(Math.random() * 1000);

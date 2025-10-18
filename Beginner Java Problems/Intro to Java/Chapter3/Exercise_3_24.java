@@ -1,6 +1,6 @@
 package Chapter3;
 
-public class ProblemNo24 {
+public class Exercise_3_24 {
     public static void main(String[] args) {
         final int totalcards = 52;
         int cardNo = (int) (Math.random() * totalcards);

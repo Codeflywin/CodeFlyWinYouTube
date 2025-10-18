@@ -1,6 +1,6 @@
 package Chapter3;
 
-public class ProblemNo4 {
+public class Exercise_3_4 {
     public static void main(String[] args) {
        int month = (int)(Math.random() * 12) + 1;
        if ( month == 1)

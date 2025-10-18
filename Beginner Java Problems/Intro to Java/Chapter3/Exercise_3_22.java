@@ -2,7 +2,7 @@ package Chapter3;
 
 import java.util.Scanner;
 
-public class ProblemNo22 {
+public class Exercise_3_22 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter a point (x,y) to check if the point is within a circle with a radius of 10: ");

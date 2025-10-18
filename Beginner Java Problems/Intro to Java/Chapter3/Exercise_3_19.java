@@ -2,7 +2,7 @@ package Chapter3;
 
 import java.util.Scanner;
 
-public class ProblemNo19 {
+public class Exercise_3_19 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter the three edges of a triangle in order to calculate the perimeter:");
