@@ -1,6 +1,6 @@
 package Chapter1;
 
-public class ProblemNo11 {
+public class Exercise_1_11 {
     public static void main(String[] args) {
         //There are 365 days
         //Each day has 24 hours 365 * 24

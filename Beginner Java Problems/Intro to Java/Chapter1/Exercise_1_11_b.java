@@ -1,6 +1,6 @@
 package Chapter1;
 
-public class ProblemNo11b {
+public class Exercise_1_11_b {
     public static void main(String[] args) {
         long seconds =  365 * 24 * 60 * 60;
         long births = seconds / 7;

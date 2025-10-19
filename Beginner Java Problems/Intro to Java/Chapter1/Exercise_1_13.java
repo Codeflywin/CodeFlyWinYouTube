@@ -2,7 +2,7 @@ package Chapter1;
 
 import java.util.Scanner;
 
-public class ProblemNo13 {
+public class Exercise_1_13 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a, b, c, d, e, f: ");
