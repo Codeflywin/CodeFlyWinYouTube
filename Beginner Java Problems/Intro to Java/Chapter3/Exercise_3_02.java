@@ -2,7 +2,7 @@ package Chapter3;
 
 import java.util.Scanner;
 
-public class Exercise_3_2 {
+public class Exercise_3_02 {
     public static void main(String[] args) {
         int number1 = (int)(System.currentTimeMillis() % 10);
         int number2 = (int)(System.currentTimeMillis() /10 % 10);

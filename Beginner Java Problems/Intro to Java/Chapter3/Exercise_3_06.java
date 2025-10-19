@@ -2,7 +2,7 @@ package Chapter3;
 
 import java.util.Scanner;
 
-public class Exercise_3_6 {
+public class Exercise_3_06 {
     public static void main(String[] args) {
 
         final double KILOGRAMS_PER_POUND = 0.45359237;
