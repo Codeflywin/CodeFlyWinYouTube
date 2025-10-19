@@ -1,7 +1,7 @@
 package Chapter2;
 
 import java.util.Scanner;
-public class ProblemNo5 {
+public class Exercise_2_05 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the subtotal and a gratuity rate: ");

@@ -2,7 +2,7 @@ package Chapter2;
 
 import java.util.Scanner;
 
-public class ProblemNo13 {
+public class Exercise_2_13 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter the monthly savings amount: ");

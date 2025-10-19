@@ -2,7 +2,7 @@ package Chapter2;
 
 import java.util.Scanner;
 
-public class ProblemNo19 {
+public class Exercise_2_19 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the coordinates of three points separated by spaces: ");

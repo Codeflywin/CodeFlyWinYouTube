@@ -2,7 +2,7 @@ package Chapter2;
 
 import java.util.Scanner;
 
-public class ProblemNo10 {
+public class Exercise_2_10 {
     public static void main(String[] args) {
         System.out.print("Enter the amount of water in kilograms: ");
         Scanner scan = new Scanner(System.in);

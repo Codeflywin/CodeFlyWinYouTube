@@ -2,7 +2,7 @@ package Chapter2;
 
 import java.util.Scanner;
 
-public class ProblemNo12 {
+public class Exercise_2_12 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter speed and acceleration: ");

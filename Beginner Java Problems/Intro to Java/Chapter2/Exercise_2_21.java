@@ -2,7 +2,7 @@ package Chapter2;
 
 import java.util.Scanner;
 
-public class ProblemNo21 {
+public class Exercise_2_21 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter investment amount: ");

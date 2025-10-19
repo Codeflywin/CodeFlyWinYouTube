@@ -1,6 +1,6 @@
 package Chapter2;
 
-public class ProblemNo18 {
+public class Exercise_2_18 {
     public static void main(String[] args) {
         System.out.print("    a         b      Middle Point");
         System.out.print(" \n  (0, 0)   (2, 1)     (" + (double)(0 + 2)/2 + ", " + (double)(0+1)/2 + ")");

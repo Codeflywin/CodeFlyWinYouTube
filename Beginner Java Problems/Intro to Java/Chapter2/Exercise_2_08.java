@@ -3,7 +3,7 @@ package Chapter2;
 import java.util.Scanner;
 
 
-public class ProblemNo8 {
+public class Exercise_2_08 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter the time zone offset to GMT: ");
