@@ -12,8 +12,11 @@ public class Exercise_3_30 {
         long currentMinutes = totalMinutes % 60;
         long totalHours = totalMinutes / 60;
         long yourtime = (totalHours + offset) % 24;
-        long finalhour = yourtime == 12 ? yourtime = 0 : yourtime + 12;
-        if (finalhour < 12)
+        if (yourtime == 12)
+            System.out.println("The current time is : " + 12 + ":" + currentMinutes + ":" + currentSeconds + " PM");
+        else if (yourtime == 0)
+            System.out.println("The current times is : " + 12 + ":" + currentMinutes + ":" + currentSeconds + " AM");
+        else if (yourtime < 12)
             System.out.println("The current time is : " + (yourtime % 12) + ":" + currentMinutes + ":" + currentSeconds + " AM");
         else
             System.out.println("The current time is : " + (yourtime % 12) + ":" + currentMinutes + ":" + currentSeconds + " PM");
