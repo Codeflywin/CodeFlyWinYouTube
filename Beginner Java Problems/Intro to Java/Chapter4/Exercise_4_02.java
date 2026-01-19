@@ -14,5 +14,7 @@ public class Exercise_4_02 {
         double radius = 6371.01;
         double d =  radius * Math.acos(Math.sin(x1) * Math.sin(x2) + Math.cos(x1) * Math.cos(x2) * Math.cos(y1 - y2));
         System.out.println("The distance between the two points is " + d);
+        input.close();
+
     }
 }

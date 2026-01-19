@@ -11,5 +11,6 @@ public class Exercise_4_01 {
         double s = ( (2 * r) * Math.sin(Math.PI / 5));
         double area = ( 5 * Math.pow(s,2)) / (4 * Math.tan(Math.PI / 5));
         System.out.printf("The area of the pentagon is %4.2f ", area);
+        input.close();
     }
 }

@@ -26,5 +26,6 @@ public class Exercise_4_03 {
         double triangleArea2 = Math.sqrt(stwo * (stwo - s4) * (stwo - s5) * (stwo - s6));
         double area = triangleArea1 + triangleArea2;
         System.out.println("The area between Atlanta, Charlotte, Savannah and Orlando is " + area);
+        input.close();
     }
 }
